@@ -1,4 +1,4 @@
-# ADS
+# University Attendance Management System with QR Codes and IP Validation
 This project was developed for the Architecture and Software Development course as part of our Master's program. The goal was to create a solution for a common problem we face daily: attendance tracking in university classes and the inefficient use of classroom space due to the lack of real-time student occupancy data.
 
 Our proposed solution leverages QR codes to identify classrooms. Each student can scan the QR code with their mobile device to mark their attendance. We developed a system that scans the QR code and redirects the user to an HTML page where their presence is recorded. Additionally, we implemented methods to collect and analyze the attendance data efficiently.
